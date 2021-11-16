@@ -158,7 +158,7 @@ a:hover{
   text-decoration: none;
 }
 
-.btn {
+.btn2 {
   background: #3498db;
   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
   background-image: -moz-linear-gradient(top, #3498db, #2980b9);
@@ -175,7 +175,7 @@ a:hover{
   text-decoration: none;
 }
 
-.btn:hover {
+.btn2:hover {
   background: #3cb0fd;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
   background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
